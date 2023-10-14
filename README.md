@@ -12,3 +12,7 @@ In this project we were instructed to use 42 Schools own graphical library MiniL
 
 https://github.com/hussojo/fract-ol/assets/106306928/5351daea-e9a9-4719-8da6-690c4c6e55fe
 
+
+
+https://github.com/hussojo/fract-ol/assets/106306928/f1423a6b-b8a0-46fc-8d53-56226693cb6d
+
