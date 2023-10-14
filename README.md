@@ -6,5 +6,12 @@ _Fractals are complex geometric shapes that repeat their patterns at different s
 ## What's this project about?
 In this project we were instructed to use 42 Schools own graphical library MiniLibX. This library was developed internally and includes basic necessary tools to open a window, create images and deal with keyboard and mouse events.
 
-https://github.com/hussojo/fract-ol/assets/106306928/5180a1ef-5640-4f4f-8250-385b0bfd25e8
+<img width="663" alt="Screen Shot 2023-10-14 at 1 28 08 PM" src="https://github.com/hussojo/fract-ol/assets/106306928/af764d0e-fa80-41ab-a444-7f5088372ada">
+
+
+https://github.com/hussojo/fract-ol/assets/106306928/b240bf0f-6051-42b8-a842-5515320896b5
+
+
+
+https://github.com/hussojo/fract-ol/assets/106306928/c17953de-4630-4d45-a60b-324bdad94d37
 
